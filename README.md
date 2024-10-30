@@ -70,12 +70,12 @@ Model Comparison Based on Test Accuracy
 
 **Model	Test Accuracies**
 
-Logistic Regression	0.90
-Random Forest	0.80
-Decision Tree	0.60
-K-Nearest Neighbors	0.77
-Support Vector Machine	0.87
-Gradient Boosting	0.77
+**Logistic Regression	0.90 
+Random Forest	0.80 
+Decision Tree	0.60 
+K-Nearest Neighbors	0.77 
+Support Vector Machine	0.87 
+Gradient Boosting	0.77**
 
 
 Conclusion: Best Model for the Project
